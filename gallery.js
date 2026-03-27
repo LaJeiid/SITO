@@ -20,46 +20,6 @@ const sequence = [
     sub: "Khan Yunis, May 2025 - Ph. Hosny Salah"
   },
   {
-    type: "image",
-    src: "img/img7.jpg",
-    alt: "Foto 3"
-  },
-  {
-    type: "text",
-    main: "La sacralità dei piccoli gesti",
-    sub: "Gaza, July 2024 - Ph. Hosny Salah"
-  },
-  {
-    type: "image",
-    src: "img/img3.jpg",
-    alt: "Foto 3"
-  },
-  {
-    type: "text",
-    main: "Il peso della responsabilità",
-    sub: "Khan Yunis, September 2025 - Ph. Hosny Salah"
-  },
-  {
-    type: "image",
-    src: "img/img6.jpg",
-    alt: "Foto 3"
-    },
-  {
-    type: "text",
-    main: "L'intelligenza della sopravvivenza",
-    sub: "Khan Yunis, May 2025 - Ph. Hosny Salah"
-  },
-  {
-    type: "image",
-    src: "img/img5.jpg",
-    alt: "Foto 3"
-  },
-  {
-    type: "text",
-    main: "Radici nel vuoto",
-    sub: "Gaza, October 2025 - Ph. Hosny Salah"
-  },
-  {
     type:"end",
     main:"Il viaggio termina qui,<br>ma ciò che avete visto resta con voi.<br>Grazie per aver scelto di dare spazio al silenzio e alla contemplazione.",
     sub:""
